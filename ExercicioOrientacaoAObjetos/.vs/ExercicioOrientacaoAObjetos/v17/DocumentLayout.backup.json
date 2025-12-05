@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PEDROHENRIQUEVIEIRA\\Desktop\\C#\\ExercicioOrientacaoAObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A92E00-3666-4271-84F3-F19B19838665}|ExercicioOrientacaoAObjetos.csproj|c:\\users\\pedrohenriquevieira\\desktop\\c#\\exercicioorientacaoaobjetos\\clt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A92E00-3666-4271-84F3-F19B19838665}|ExercicioOrientacaoAObjetos.csproj|solutionrelative:clt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A92E00-3666-4271-84F3-F19B19838665}|ExercicioOrientacaoAObjetos.csproj|c:\\users\\pedrohenriquevieira\\desktop\\c#\\exercicioorientacaoaobjetos\\estagiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A92E00-3666-4271-84F3-F19B19838665}|ExercicioOrientacaoAObjetos.csproj|solutionrelative:estagiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A92E00-3666-4271-84F3-F19B19838665}|ExercicioOrientacaoAObjetos.csproj|c:\\users\\pedrohenriquevieira\\desktop\\c#\\exercicioorientacaoaobjetos\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A92E00-3666-4271-84F3-F19B19838665}|ExercicioOrientacaoAObjetos.csproj|solutionrelative:funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A92E00-3666-4271-84F3-F19B19838665}|ExercicioOrientacaoAObjetos.csproj|c:\\users\\pedrohenriquevieira\\desktop\\c#\\exercicioorientacaoaobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A92E00-3666-4271-84F3-F19B19838665}|ExercicioOrientacaoAObjetos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A92E00-3666-4271-84F3-F19B19838665}|ExercicioOrientacaoAObjetos.csproj|c:\\users\\pedrohenriquevieira\\desktop\\c#\\exercicioorientacaoaobjetos\\terceirizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A92E00-3666-4271-84F3-F19B19838665}|ExercicioOrientacaoAObjetos.csproj|solutionrelative:terceirizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A92E00-3666-4271-84F3-F19B19838665}|ExercicioOrientacaoAObjetos.csproj|c:\\users\\pedrohenriquevieira\\desktop\\c#\\exercicioorientacaoaobjetos\\tipofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A92E00-3666-4271-84F3-F19B19838665}|ExercicioOrientacaoAObjetos.csproj|solutionrelative:tipofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Terceirizado.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROHENRIQUEVIEIRA\\Desktop\\C#\\ExercicioOrientacaoAObjetos\\Terceirizado.cs",
+              "RelativeDocumentMoniker": "Terceirizado.cs",
+              "ToolTip": "C:\\Users\\PEDROHENRIQUEVIEIRA\\Desktop\\C#\\ExercicioOrientacaoAObjetos\\Terceirizado.cs",
+              "RelativeToolTip": "Terceirizado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T22:51:26.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estagiario.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROHENRIQUEVIEIRA\\Desktop\\C#\\ExercicioOrientacaoAObjetos\\Estagiario.cs",
+              "RelativeDocumentMoniker": "Estagiario.cs",
+              "ToolTip": "C:\\Users\\PEDROHENRIQUEVIEIRA\\Desktop\\C#\\ExercicioOrientacaoAObjetos\\Estagiario.cs",
+              "RelativeToolTip": "Estagiario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:49:01.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CLT.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROHENRIQUEVIEIRA\\Desktop\\C#\\ExercicioOrientacaoAObjetos\\CLT.cs",
+              "RelativeDocumentMoniker": "CLT.cs",
+              "ToolTip": "C:\\Users\\PEDROHENRIQUEVIEIRA\\Desktop\\C#\\ExercicioOrientacaoAObjetos\\CLT.cs",
+              "RelativeToolTip": "CLT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:42:03.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROHENRIQUEVIEIRA\\Desktop\\C#\\ExercicioOrientacaoAObjetos\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Funcionario.cs",
+              "ToolTip": "C:\\Users\\PEDROHENRIQUEVIEIRA\\Desktop\\C#\\ExercicioOrientacaoAObjetos\\Funcionario.cs",
+              "RelativeToolTip": "Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:12:42.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROHENRIQUEVIEIRA\\Desktop\\C#\\ExercicioOrientacaoAObjetos\\TipoFuncionario.cs",
+              "RelativeDocumentMoniker": "TipoFuncionario.cs",
+              "ToolTip": "C:\\Users\\PEDROHENRIQUEVIEIRA\\Desktop\\C#\\ExercicioOrientacaoAObjetos\\TipoFuncionario.cs",
+              "RelativeToolTip": "TipoFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:34:15.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROHENRIQUEVIEIRA\\Desktop\\C#\\ExercicioOrientacaoAObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PEDROHENRIQUEVIEIRA\\Desktop\\C#\\ExercicioOrientacaoAObjetos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:32:33.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
